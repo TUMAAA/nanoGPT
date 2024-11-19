@@ -1,4 +1,4 @@
-
+This is a fork of [nanoGPT](https://github.com/karpathy/nanoGPT)
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
